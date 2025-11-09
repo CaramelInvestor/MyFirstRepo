@@ -1,0 +1,3 @@
+A short paragraph about something I learned in this course...
+I have a better understanding of git
+
